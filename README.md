@@ -2,11 +2,14 @@
 
 Meet re:bot, a spring loaded misfit bouncing through a floating world of discovery. Launch, spin and slam your way across planets in a game where every part of your body has weight, and every move creates mayhem. It’s not just platforming, its physics gone playful.
 
+Trailer: https://youtu.be/Rb34AfX7PBo
+
+
+
 ![REBOT FRONT](https://github.com/user-attachments/assets/5cff321b-66a9-45dc-9c3f-e29fce0b3b4d)
 
 ![REBOT BACK](https://github.com/user-attachments/assets/fc98bacb-f0d2-4d85-81e7-d262e98ac0f1)
 
-Trailer: https://youtu.be/Rb34AfX7PBo
 
 <img width="1048" height="649" alt="Captura de pantalla 2025-06-04 150612" src="https://github.com/user-attachments/assets/917d3a15-7327-4c36-b927-9b92ba17a516" />
 
